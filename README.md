@@ -1,6 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-## DEVELOPED BY: Tharika S
-## REG NO: 212222230159
+## DEVELOPED BY: J NETHRAA
+## REG NO: 212222100031
 ## AIM:
 To Implementation of Classical Planning Algorithm
 ## Algorithm:
